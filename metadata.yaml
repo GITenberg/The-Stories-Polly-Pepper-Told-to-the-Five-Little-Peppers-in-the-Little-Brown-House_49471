@@ -1,0 +1,36 @@
+_repo: The-Stories-Polly-Pepper-Told-to-the-Five-Little-Peppers-in-the-Little-Brown-House_49471
+contributor:
+  illustrators:
+  - agent_name: McDermott, Jessie
+    gutenberg_agent_id: '45354'
+    url: http://www.gutenberg.org/2009/agents/45354
+  - agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Ethelred Breeze
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: ''
+gutenberg_issued: '2015-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Stories Polly Pepper Told
+
+  to the Five Little Peppers in the Little Brown House'
+url: http://www.gutenberg.org/ebooks/49471
