@@ -1,4 +1,5 @@
 _repo: The-Stories-Polly-Pepper-Told-to-the-Five-Little-Peppers-in-the-Little-Brown-House_49471
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: McDermott, Jessie
@@ -12,6 +13,9 @@ contributor:
     birthdate: 1870
     gutenberg_agent_id: '6348'
     url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: archival
+  image_path: 49471-h/images/cover.jpg
 creator:
   author:
     agent_name: Sidney, Margaret
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/307
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49471#The-Stories-Polly-Pepper-Told-to-the-Five-Little-Peppers-in-the-Little-Brown-House
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
